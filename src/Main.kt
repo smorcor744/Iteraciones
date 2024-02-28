@@ -36,18 +36,35 @@ fun main() {
         println("Correcto")
     println(mixedDataRev)
 }
+//fun <T> reverse(elementos: List<T>): List<T> {
+//    val newlista = mutableListOf<T>()
+//    val pila = Pila<T>()
+//
+//    for (elemento in elementos) {
+//        pila.push(elemento)
+//    }
+//
+//    while (!pila.isEmpty()) newlista.add(pila.pop()!!)
+//
+//    return newlista
+//}
+
 fun <T> reverse(elementos: List<T>): List<T> {
     val newlista = mutableListOf<T>()
     val pila = Pila<T>()
 
-    for (elemento in elementos) {
-        pila.push(elemento)
+    val iterator = elementos.iterator()
+    while (iterator.hasNext()) {
+        pila.push(iterator.next())
     }
 
-    while (!pila.isEmpty()) newlista.add(pila.pop()!!)
+    while (!pila.isEmpty()) {
+        newlista.add(pila.pop()!!)
+    }
 
     return newlista
 }
+
 data class Inventada(val coches: List<Any>){
 }
 class Pila<T> {

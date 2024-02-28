@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00332a0d-0291-4420-8fa2-1d4d9c52e8bd" name="Changes" comment="">
+    <list default="true" id="00332a0d-0291-4420-8fa2-1d4d9c52e8bd" name="Changes" comment="Ejercicio casi terminado">
       <change afterPath="$PROJECT_DIR$/../1dam-armas-de-fuego-smorcor744" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../1dam-restaurante-poo-smorcor744" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Armas/.gitignore" afterDir="false" />
@@ -48,16 +48,6 @@
       <change afterPath="$PROJECT_DIR$/../Ejercicio-04-Gestion-Personal/Ejercicio-04-Gestion-Personal.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ejercicio-04-Gestion-Personal/src/Main.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EntregaEntornosGit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iteraciones.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Vehiculos_2/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Vehiculos_2/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Vehiculos_2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -71,6 +61,7 @@
       <change afterPath="$PROJECT_DIR$/../_04_Gestion_de_personal_Sergio_Morales_Coronil" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1dam-ejercicios-kotlin-smorcor744" beforeDir="false" afterPath="$PROJECT_DIR$/../1dam-ejercicios-kotlin-smorcor744" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Donde_esta_R2D2" beforeDir="false" afterPath="$PROJECT_DIR$/../Donde_esta_R2D2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../POO-Ejercicios-basicos-1-al-5/POO-Ejercicio-basico-4.3" beforeDir="false" afterPath="$PROJECT_DIR$/../POO-Ejercicios-basicos-1-al-5/POO-Ejercicio-basico-4.3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../POO-Ejercicios-basicos-1-al-5/POO-Ejercicio-basico-4.5" beforeDir="false" afterPath="$PROJECT_DIR$/../POO-Ejercicios-basicos-1-al-5/POO-Ejercicio-basico-4.5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../POO-Practica de clase - Cafeteras y tazas - Sergio Morales Coronil" beforeDir="false" afterPath="$PROJECT_DIR$/../POO-Practica de clase - Cafeteras y tazas - Sergio Morales Coronil" afterDir="false" />
@@ -121,6 +112,19 @@
       <option name="presentableId" value="Default" />
       <updated>1709149125598</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio casi terminado">
+      <option name="closed" value="true" />
+      <created>1709153872903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709153872903</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio casi terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio casi terminado" />
   </component>
 </project>
