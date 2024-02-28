@@ -49,6 +49,7 @@ fun main() {
 //    return newlista
 //}
 
+
 fun <T> reverse(elementos: List<T>): List<T> {
     val newlista = mutableListOf<T>()
     val pila = Pila<T>()
